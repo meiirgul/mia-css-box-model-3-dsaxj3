@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(109, 106, 106);
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 60px;
+  margin: 0px;
+  margin-top: -15px;
+  font-weight: 600;
+}
+h2 {
+  color: rgb(109, 106, 106);
+  font-family: 'Goudy Bookletter 1911', serif;
+  margin: 0px;
+}
+.black {
+  margin-left: 130px;
+  color: rgb(56, 55, 55);
+  font-size: 60px;
+  border-bottom: 2px dashed rgb(111, 91, 221);
+  line-height: 55px;
+  inline-size: 185px;
+  border-top: 0px;
+}
+body {
+  border-color: rgb(238, 242, 248);
+  border-style: solid;
+  border-radius: 5px;
+  margin: 0;
+  border-width: 3px;
+  padding: 30px;
+}
